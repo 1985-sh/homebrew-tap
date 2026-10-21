@@ -1,9 +1,9 @@
 cask "1985" do
   arch arm: "arm64", intel: "x86_64"
 
-  version "0.1.12"
-  sha256 arm:   "380bf0c3398310e3da8fc9ac5cf7f72235e341582c3a773a35387132968d6439",
-         intel: "63584642080df994c19499ebb49150ed338fff12b4568e5d67c1432b11849f61"
+  version "0.1.13"
+  sha256 arm:   "72400fc5004ba615890d3ca1b590c3dc674613f63a17b20a1171dfe74e4d8d1a",
+         intel: "bbfbddca0966cfd1cd23cf73c7584ec24674a9323da8d6d2f229f4118613868c"
 
   url "https://dl.1985.sh/v#{version}/1985-macos-#{arch}"
   name "1985"
