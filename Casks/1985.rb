@@ -1,6 +1,6 @@
 cask "1985" do
-  version "0.1.6"
-  sha256 "cc0c33025f5d24f283b9d1c20566d53ee4c5eee4914dea4a9f7d1f0bb01de4ca"
+  version "0.1.7"
+  sha256 "f4969282deda97f8989c6f7fecff71279f16f9457c9c5080b3bc59bad3a039d0"
 
   url "https://dl.1985.sh/v#{version}/1985-macos"
   name "1985"
